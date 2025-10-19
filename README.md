@@ -5,3 +5,5 @@ This repository contains all the material for Semester 2, 2025 of DATA1002, incl
 - Powerpoint slides
 - Python exercises (solutions NOT provided)
 - Datasets used for demonstrations
+
+*NB: Week 5 not included; Week 9 merged with Week 10. No week 11 as Python test.*
